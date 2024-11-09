@@ -4,6 +4,7 @@ Objective:
 The main objective is that to perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other and which is the best time for booking .
 
 Data description:
+
 hotel: Name of hotel ( City or Resort)
 
 is_canceled: Whether the booking is canceled or not (0 for no canceled and 1 for canceled)
